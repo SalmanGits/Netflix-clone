@@ -2,13 +2,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
 Open [https://netflix-clone-with-reactjs-app.herokuapp.com/](https://netflix-clone-with-reactjs-app.herokuapp.com/) to view it in your browser.
 
 The page will reload when you make changes.\
